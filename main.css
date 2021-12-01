@@ -1,0 +1,14 @@
+#draggable {
+  position: absolute;
+  z-index: 100;
+  top: 0px;
+  border: 2px solid red;
+  max-width: 30%;
+  background-color: #d3d3d3;
+}
+.itemComplete {
+  cursor: pointer;
+}
+.itemDelete {
+  cursor: pointer;
+}
